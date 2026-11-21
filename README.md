@@ -2,7 +2,7 @@
 
 **Proyecto final de Ciencia de Datos**  
 **Estudiante:** Sergio Morales  
-**Video:** [Agregar enlace cuando esté listo]
+**Video:** https://drive.google.com/file/d/1nANemakyWt-yIAFxCLHUwmIBwpjG6JHi/view?usp=drive_link
 
 ## ¿De qué trata?
 
@@ -32,4 +32,4 @@ En esta base, los lotes con más operaciones generalmente tardan más. También 
 
 ## Para revisar el análisis
 
-El cuaderno está en la carpeta `notebook` y los datos están en `datos`. Si se quiere repetir el ejercicio, se abre el cuaderno en Colab, se sube el CSV y se ejecutan las celdas.
+El cuaderno está en la carpeta notebook y los datos están en pagos_siulados.csv.
